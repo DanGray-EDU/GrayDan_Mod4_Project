@@ -1,5 +1,5 @@
 # Program: SortedLinkedList
-Version: 1.0,0
+Version: 1.0.0
 ## Purpose: 
 Allows the user to enter a list of integers, store those integers in a linked list 'numberLinkedList' and then sorts the linked list before reporting the linked list to the users console.
 ## Change Tracking:
